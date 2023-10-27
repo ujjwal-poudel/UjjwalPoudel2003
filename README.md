@@ -1,5 +1,6 @@
 # 💫 About Me:
 For more info: https://ujjwalpoudel.me
+
 I'm Ujjwal Poudel, and I live for the thrill <br>of coding! It's not just a job for me; it's an<br> exhilarating experience that keeps me going<br> day and night. I'm fueled by the sheer joy of<br> writing lines of code and bringing ideas to life.<br>Languages like C# and Python are my playgrounds,<br> where I explore new concepts and unleash my creativity.<br> Whether it's crafting elegant solutions or diving into<br> complex algorithms, I'm always up for the challenge.<br> There's something magical about the way code works,<br> and I can't get enough of it.
 
 
